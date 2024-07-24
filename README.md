@@ -1,7 +1,7 @@
 # test-node-app
-a simple test node jss application
+a simple test node js application
 
-to run the app add .env file to the root folder with databases properrties
+#to run the app add .env file to the root folder with databases properties
 
 DB_HOST=localhost\
 DB_USER=root\
